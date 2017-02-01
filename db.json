@@ -1,0 +1,34 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "name": "The Godfather",
+      "isComplete": true
+    },
+    {
+      "id": 2,
+      "name": "Star Wars",
+      "isComplete": false
+    },
+    {
+      "id": 3,
+      "name": "Ghost in the shell",
+      "isComplete": false
+    },
+    {
+      "id": 71364,
+      "name": "lalaland",
+      "isComplete": false
+    },
+    {
+      "id": 20558,
+      "name": "opa",
+      "isComplete": false
+    },
+    {
+      "id": 6090,
+      "name": "Inception",
+      "isComplete": false
+    }
+  ]
+}
